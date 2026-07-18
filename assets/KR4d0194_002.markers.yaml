@@ -868,6 +868,7 @@ markers:
   - {type: substitution, offset: 2746, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: substitution, offset: 2747, original: 髪, replacement: 髮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20730}}
   - {type: punctuation, offset: 2751, content: (, id: KR4d0194_krp_002-bkkpn1}
+  - {type: voice, offset: 2751, length: 22, name: note, id: n1}
   - {type: punctuation, offset: 2753, content: /, id: KR4d0194_krp_002-bkkpn2}
   - {type: punctuation, offset: 2755, content: ), id: KR4d0194_krp_002-bkkpn3}
   - {type: 'kr:newline', offset: 2755, content: '
@@ -1232,4 +1233,4 @@ markers:
 
       ', id: KR4d0194_krp_002-bkkkrnewl255}
   back: []
-hash: sha256:876ec6a57a44032f18bf942a6dce57574bf6dd88a888768960d02d41caefadad
+hash: sha256:e25bbb69601deb040b9bc368e9e917cf115c45b797931e769a61047ca5c7dc66
